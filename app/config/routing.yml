@@ -1,0 +1,10 @@
+main:
+    resource: "@MainBundle/Resources/config/routing.yml"
+    prefix:   /
+
+<<<<<<< HEAD
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
+=======
+>>>>>>> abe0793156f1fa6f6e9f80e1299f81ef63031576
